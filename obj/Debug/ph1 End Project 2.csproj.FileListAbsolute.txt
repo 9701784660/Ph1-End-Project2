@@ -1,0 +1,7 @@
+D:\projects\ph1 End Project 2\ph1 End Project 2\bin\Debug\ph1 End Project 2.exe.config
+D:\projects\ph1 End Project 2\ph1 End Project 2\bin\Debug\ph1 End Project 2.exe
+D:\projects\ph1 End Project 2\ph1 End Project 2\bin\Debug\ph1 End Project 2.pdb
+D:\projects\ph1 End Project 2\ph1 End Project 2\obj\Debug\ph1 End Project 2.csproj.AssemblyReference.cache
+D:\projects\ph1 End Project 2\ph1 End Project 2\obj\Debug\ph1 End Project 2.csproj.CoreCompileInputs.cache
+D:\projects\ph1 End Project 2\ph1 End Project 2\obj\Debug\ph1 End Project 2.exe
+D:\projects\ph1 End Project 2\ph1 End Project 2\obj\Debug\ph1 End Project 2.pdb
